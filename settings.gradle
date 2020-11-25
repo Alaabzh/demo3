@@ -1,0 +1,4 @@
+include ':myAdslibrary'
+include ':app:mylibrary'
+include ':app'
+rootProject.name = "EncryptionApp"
